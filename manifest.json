@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Always Paste",
+  "version": "1.0",
+  "description": "Always be able to paste into form fields, even when the site tries to block you.",
+  "icons": {
+    "48": "icons/XXX-paste-icon"
+  },
+  "content_scripts": [
+    {
+      "js": ["always-paste.js"]
+    }
+  ]
+
+}
