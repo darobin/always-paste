@@ -10,6 +10,8 @@
     {
       "js": ["always-paste.js"]
     }
+  ],
+  "permissions": [
+    "clipboardRead"
   ]
-
 }
