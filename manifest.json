@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Always be able to paste into form fields, even when the site tries to block you.",
   "icons": {
-    "48": "icons/XXX-paste-icon"
+    "96": "icons/clippy-octicon.svg"
   },
   "content_scripts": [
     {
